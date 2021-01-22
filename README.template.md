@@ -1,13 +1,12 @@
-<!--[![Barry's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)-->
+[![Barry's GitHub Banner](./assets/audi-1500x500.jpeg)](https://bforrest.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bforrest30)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/barryforrest/)
+
 
 Hey there 👋
 
-I’m Barry, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+My name is Barry and I am an agile-ist, web developer, technology generalist, and Scrum Master. I love mentoring others, helping to make work-life better for teams, leaving things in a better state than I found them. I have co-presented talks, with [Allison Polard](http://www.allisonpollard.com/), at Agile 2018, Agile 2019, and regional agile gatherings. Barry is also an award-winning home brewer and an avid amateur photographer. 
 
 Want to know more about me? [Check out my blog.](https://bforrest.com/)
 
