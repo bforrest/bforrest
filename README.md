@@ -9,6 +9,9 @@
 My name is Barry and I am an agile-ist, web developer, technology generalist, and Scrum Master. I love mentoring others, helping to make work-life better for teams, leaving things in a better state than I found them. I have co-presented talks, with [Allison Polard](http://www.allisonpollard.com/), at Agile 2018, Agile 2019, and regional agile gatherings. Barry is also an award-winning home brewer and an avid amateur photographer. 
 
 Want to know more about me? [Check out my blog.](https://bforrest.com/)
+
+
+### I also brew beer 🍻
 <!-- BLOG-POST-LIST:START -->
 - [Iron Mash 2020 (Covid-Style)](https://blog.agalewerks.com/2020/11/19/iron-mash-2020-covid-style/)
 - [Resilience Update](https://blog.agalewerks.com/2019/01/26/resilience-update/)
