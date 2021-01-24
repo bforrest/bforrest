@@ -6,17 +6,25 @@
 
 Hey there 👋
 
-My name is Barry and I am an agile-ist, web developer, technology generalist, and Scrum Master. I love mentoring others, helping to make work-life better for teams, leaving things in a better state than I found them. I have co-presented talks, with [Allison Polard](http://www.allisonpollard.com/), at Agile 2018, Agile 2019, and regional agile gatherings. Barry is also an award-winning home brewer and an avid amateur photographer. 
+My name is Barry and I am an agile-ist, web developer, technology generalist, and Scrum Master. I love mentoring others, helping to make work-life better for teams, leaving things in a better state than I found them. I have co-presented talks, with [Allison Pollard](http://www.allisonpollard.com/), at Agile 2018, Agile 2019, and regional agile gatherings. Barry is also an award-winning home brewer and an avid amateur photographer. 
 
 Want to know more about me? [Check out my blog.](https://bforrest.com/)
 
-## 📝 Latest Blog Posts
-
-<br>
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+## 📝 Latest Brewing Posts
+
+<br>
+
+<!-- AGALEWERKS:START -->
+
+<!-- AGALEWERKS:END -->
 
 <br>
 
