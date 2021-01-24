@@ -10,15 +10,20 @@ My name is Barry and I am an agile-ist, web developer, technology generalist, an
 
 Want to know more about me? [Check out my blog.](https://bforrest.com/)
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ### I also brew beer 🍻
-<!-- BLOG-POST-LIST:START -->
+<!-- AGALEWERKS:START -->
 - [Iron Mash 2020 (Covid-Style)](https://blog.agalewerks.com/2020/11/19/iron-mash-2020-covid-style/)
 - [Resilience Update](https://blog.agalewerks.com/2019/01/26/resilience-update/)
 - [Sierra Nevada Resilience IPA](https://blog.agalewerks.com/2019/01/06/sierra-nevada-resilience-ipa/)
 - [We Have A Winner!](https://blog.agalewerks.com/2017/03/30/we-have-a-winner/)
 - [Choosing Our Best Beers…](https://blog.agalewerks.com/2017/02/13/choosing-our-best-beers/)
-<!-- BLOG-POST-LIST:END -->
+<!-- AGALEWERKS:END -->
 <!--
 **bforrest/bforrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
