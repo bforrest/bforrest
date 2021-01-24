@@ -16,5 +16,3 @@ jobs:
        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://bforrest.com/index.xml"
-         output_only: true
-     - run: echo ${{ steps.blog-post-workflow.outputs.results }}
