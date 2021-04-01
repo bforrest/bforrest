@@ -13,11 +13,11 @@ Want to know more about me? [Check out my blog.](https://bforrest.com/)
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Readme](bforrest.github.io/post/github-readme/)
-- [Fun With Hugo](bforrest.github.io/post/fun-with-hugo/)
-- [Forbidden Island Team Dynamics](bforrest.github.io/post/2019-06-11-forbidden-island-team-dynamics/)
-- [Involvement With Resilience](bforrest.github.io/post/2019-01-06-involvement-with-resilience/)
-- [Brewing For A Cause](bforrest.github.io/post/2019-01-05-brewing-for-a-cause/)
+- [Github Readme](https://bforrest.com/post/github-readme/)
+- [Fun With Hugo](https://bforrest.com/post/fun-with-hugo/)
+- [Forbidden Island Team Dynamics](https://bforrest.com/post/2019-06-11-forbidden-island-team-dynamics/)
+- [Involvement With Resilience](https://bforrest.com/post/2019-01-06-involvement-with-resilience/)
+- [Brewing For A Cause](https://bforrest.com/post/2019-01-05-brewing-for-a-cause/)
 <!-- BLOG-POST-LIST:END -->
 
 ### I also brew beer 🍻
